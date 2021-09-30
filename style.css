@@ -1,0 +1,27 @@
+body{
+    background-color:  rgba(255, 228, 196, 0.658);
+    text-align: center;
+     
+}
+h1{
+    color: rgba(0, 0, 255, 0.555);
+
+
+}
+label{
+    color: red;
+    display: block;
+    margin: 0px;
+    font-size: larger;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+button{
+    border-color: red;
+    margin-bottom: auto;
+    
+}
+p{
+    font-size: large;
+    color: rgba(0, 0, 255, 0.555);
+}
