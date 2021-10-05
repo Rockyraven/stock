@@ -12,16 +12,29 @@ label{
     color: red;
     display: block;
     margin: 0px;
-    font-size: larger;
+    font-size: x-large;
     margin-top: 1rem;
     font-weight: bold;
+    padding: 0.5rem;
 }
 button{
     border-color: red;
     margin-bottom: auto;
+    display: block;
+    padding: 0.7rem;
+    border-radius: 0.5rem;
+    color: red;
+    margin: auto;
+    margin-top: 0.5rem;
+    font-size: larger;
+    font-weight: bold;
     
 }
 p{
-    font-size: large;
+    font-size: x-large;
     color: rgba(0, 0, 255, 0.555);
 }
+ #id
+ {
+     color:red;
+ }
